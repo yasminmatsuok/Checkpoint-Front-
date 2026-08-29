@@ -19,7 +19,7 @@ const tituloPagina = "Checkpoint 4 - Componentização e Tipagem de Props";
 
 const alunos: Aluno[] = [
   { id: 1, nome: "Yasmin de Oliveira Matsuok", rm: "RM573083", avatar: avatar1 },
-  { id: 2, nome: "Maria Vitória Cândia Carvalho", rm: "RM570850", avatar: avatar2 },
+  { id: 2, nome: "Maria Vitória Cândida Carvalho", rm: "RM570850", avatar: avatar2 },
   { id: 3, nome: "Carla Mendes", rm: "RM003", avatar: avatar3 },
   { id: 4, nome: "Diego Alves", rm: "RM004", avatar: avatar4 },
   { id: 5, nome: "Elisa Rocha", rm: "RM005", avatar: avatar5 },
