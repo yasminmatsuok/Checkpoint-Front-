@@ -1,5 +1,3 @@
-// Tipagem das props utilizadas pelos componentes da aplicação
-
 // Props do componente Cabecalho
 export interface CabecalhoProps {
   titulo: string;

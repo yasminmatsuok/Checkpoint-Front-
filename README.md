@@ -1,22 +1,16 @@
 # Checkpoint 4 - Componentização e Tipagem de Props com TypeScript
 
-**Curso:** Análise e Desenvolvimento de Sistemas
-**Disciplina:** Front-End Design Engineering
-**Turma:** 1TDSPI
-**Professor:** Luís Carlos S. Silva
+- Curso: Análise e Desenvolvimento de Sistemas
+- Disciplina: Front-End Design Engineering
+- Turma: 1TDSPI
+- Professor: Luís Carlos S. Silva
 
-## Integrantes do grupo
-
-> Preencha com nome completo e RM de cada integrante (até 5 por grupo).
-
-- Nome completo - RM 000000
-- Nome completo - RM 000000
+## Integrantes do grup
+- Yasmin de Oliveira Matsuok - RM573083
+- Maria Vitória Cândia Carvalho - RM570850
 
 ## Link do repositório no GitHub
-
-> Cole aqui o link do repositório após subir o projeto.
-
-https://github.com/SEU_USUARIO/SEU_REPOSITORIO
+https://github.com/yasminmatsuok/Checkpoint-Front-.git
 
 ## Descrição do projeto
 

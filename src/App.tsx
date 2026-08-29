@@ -38,11 +38,11 @@ function App() {
   }, []);
 
   return (
-    <div className="app">
+    <>
       <Cabecalho titulo={tituloPagina} logo="/logo.svg" />
       <Conteudo alunos={alunos} />
       <Rodape texto={textoRodape} />
-    </div>
+    </>
   );
 }
 
