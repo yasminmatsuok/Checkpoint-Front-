@@ -5,7 +5,7 @@
 - Turma: 1TDSPI
 - Professor: Luís Carlos S. Silva
 
-## Integrantes do grup
+## Integrantes do grupo
 - Yasmin de Oliveira Matsuok - RM573083
 - Maria Vitória Cândia Carvalho - RM570850
 
