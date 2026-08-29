@@ -7,7 +7,7 @@
 
 ## Integrantes do grupo
 - Yasmin de Oliveira Matsuok - RM573083
-- Maria Vitória Cândia Carvalho - RM570850
+- Maria Vitória Cândida Carvalho - RM570850
 
 ## Link do repositório no GitHub
 https://github.com/yasminmatsuok/Checkpoint-Front-.git
